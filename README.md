@@ -1,8 +1,3 @@
-
-## Status
-![khj1999's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=khj1999&show_icons=true&theme=dark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj1999)](https://solved.ac/khj1999/)
-
 ## Blog
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white)](https://khj1999.tistory.com/)
 
@@ -48,6 +43,10 @@
 - 한국해양대학교 1차 캡스톤디자인 - 자동 제동과 동력보조 수단을 구비한 스마트 유모차 개발 (팀프로젝트) (Android 개발 및 통신)
     - 2022.07.01 ~ 2022.12.30
     - 특허출원
+ 
+## Status
+![khj1999's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=khj1999&show_icons=true&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj1999)](https://solved.ac/khj1999/)
 <!--
 **khj1999/khj1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
