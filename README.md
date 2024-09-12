@@ -1,7 +1,7 @@
 ## Status
 ![khj1999's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=khj1999&show_icons=true&theme=dark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj1999)](https://solved.ac/khj1999/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khj1999&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj1999)](https://solved.ac/khj1999/)
 
 ## Blog
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white)](https://khj1999.tistory.com/)
