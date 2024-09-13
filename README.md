@@ -25,12 +25,12 @@
 | Education | 2024.02 ~ 2024.08          | KT AIVLE School                       | KT              |
 | Awards    | 2024.08                    | AIVLE Big Project - 우수상            | KT                |
 | Awards    | 2024.03                    | KT AIVLE School 코딩마스터스 - 마스터            | KT                |
-| Patent    | 2024.01                   | 인공지능을 이용한 영상 기반 쓰러짐 사고 감지 시스템   | 한국해양대학교        |
+| Patent    | 2024.01                   | 인공지능을 이용한 영상 기반 쓰러짐 사고 감지 시스템   | National Korea Maritime & Ocean University.        |
 | Awards    | 2023.11                    | ABB 해커톤 - 우수상                    | 대구광역시                |
 | Awards    | 2023.11                    | 해양특성화 ICC대학 연합경진 대회 - 우수상   | 해양특성화 ICC대학        |
 | Awards    | 2023.11                    | 2023 부산디지털혁신아카데미 BDIA Dev Contest - 입상   | 부산광역시        |
 | Awards    | 2023.09                    | 한국해양대학교 LINC 3.0 캡스톤 디자인 경진대회 - 장려상   | 부산광역시        |
-| Patent    | 2023.02                   | 자동 제동 및 동력 보조 수단을 구비한 스마트 유모차   | 한국해양대학교        |
+| Patent    | 2023.02                   | 자동 제동 및 동력 보조 수단을 구비한 스마트 유모차   | National Korea Maritime & Ocean University.       |
 | Education | 2020.03 ~ 2024.02 | Computer Engineering | National Korea Maritime & Ocean University. |
 | Education | 2018.03 ~ 2020.02 | Computer Engineering | Catholic University of Pusan. |
 
