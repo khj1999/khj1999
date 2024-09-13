@@ -1,7 +1,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj1999)](https://solved.ac/khj1999/)
 
+<!--
 ## Blog
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white)](https://khj1999.tistory.com/)
+-->
 
 ## Skill
 
