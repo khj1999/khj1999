@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj1999)](https://solved.ac/khj1999/)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=khj1999&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 
 <!--
 ## Blog
@@ -48,7 +48,11 @@
 - 한국해양대학교 1차 캡스톤디자인 - 자동 제동과 동력보조 수단을 구비한 스마트 유모차 개발 (팀프로젝트) (Android 개발 및 통신)
     - 2022.07.01 ~ 2022.12.30
     - 특허출원
- 
+
+## Problem Solving
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj1999)](https://solved.ac/khj1999/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=khj1999&theme=cold)
 
 ## Status
 
