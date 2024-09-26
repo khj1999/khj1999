@@ -29,7 +29,7 @@
 | Awards    | 2023.11                    | ABB 해커톤 - 우수상                    | Daegu Metropolitan City                |
 | Awards    | 2023.11                    | 해양특성화 ICC대학 연합경진 대회 - 우수상   | 해양특성화 ICC대학        |
 | Awards    | 2023.11                    | 2023 부산디지털혁신아카데미 BDIA Dev Contest - 입상   | Busan Metropolitan City        |
-| Awards    | 2023.09                    | 한국해양대학교 LINC 3.0 캡스톤 디자인 경진대회 - 장려상   | Busan Metropolitan City        |
+| Awards    | 2023.09                    | 한국해양대학교 LINC 3.0 캡스톤 디자인 경진대회 - 장려상   | National Korea Maritime & Ocean University.        |
 | Patent    | 2023.02                   | 자동 제동 및 동력 보조 수단을 구비한 스마트 유모차   | National Korea Maritime & Ocean University.       |
 | Education | 2020.03 ~ 2024.02 | Computer Engineering | National Korea Maritime & Ocean University. |
 | Education | 2018.03 ~ 2020.02 | Computer Engineering | Catholic University of Pusan. |
