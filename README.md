@@ -21,6 +21,7 @@
 
 | Type      | Date                       | Contents                         | Org.                 |
 |-----------|----------------------------|----------------------------------|----------------------|
+| Certificate | 2025.04 ~ 2027.04        | SQL 개발자(SQLD, SQL Developer)    | 한국데이터산업진흥원(K-Data, Korea Data Agency)              |
 | Certificate | 2024.09 ~         | 정보처리기사(Engineer Information Processing)    | 한국산업인력공단(HRDK)              |
 | Education | 2024.02 ~ 2024.08          | KT AIVLE School                       | KT              |
 | Awards    | 2024.08                    | AIVLE Big Project - 우수상            | KT                |
