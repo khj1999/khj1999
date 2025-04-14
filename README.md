@@ -17,13 +17,13 @@
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 -->
 
-<!--
+
 ## 💼 Career
 
 | Company      | Position              | Period                |
 |--------------|-----------------------|------------------------|
 | TECHCROSS  | Software Engineer | 2025.04.14 ~ Present   |
--->
+
 
 ## Activity
 
