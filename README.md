@@ -35,12 +35,10 @@
 | Education | 2024.02 ~ 2024.08          | KT AIVLE School                       | KT              |
 | Awards    | 2024.08                    | AIVLE Big Project - 우수상            | KT                |
 | Awards    | 2024.03                    | KT AIVLE School 코딩마스터스 - 마스터            | KT                |
-| Patent    | 2024.01                   | 인공지능을 이용한 영상 기반 쓰러짐 사고 감지 시스템   | National Korea Maritime & Ocean University.        |
 | Awards    | 2023.11                    | ABB 해커톤 - 우수상                    | Daegu Metropolitan City                |
 | Awards    | 2023.11                    | 해양특성화 ICC대학 연합경진 대회 - 우수상   | 해양특성화 ICC대학        |
 | Awards    | 2023.11                    | 2023 부산디지털혁신아카데미 BDIA Dev Contest - 입상   | Busan Metropolitan City        |
 | Awards    | 2023.09                    | 한국해양대학교 LINC 3.0 캡스톤 디자인 경진대회 - 장려상   | National Korea Maritime & Ocean University.        |
-| Patent    | 2023.02                   | 자동 제동 및 동력 보조 수단을 구비한 스마트 유모차   | National Korea Maritime & Ocean University.       |
 | Education | 2020.03 ~ 2024.02 | Computer Engineering | National Korea Maritime & Ocean University. |
 | Education | 2018.03 ~ 2020.02 | Computer Engineering | Catholic University of Pusan. |
 
@@ -54,10 +52,8 @@
     - [Aivle Q&A ChatBot](https://github.com/khj1999/Aivle_chatbot)
 - 한국해양대학교 2차 캡스톤디자인 - FallSentry : 영상 기반 쓰러짐 사고 감지 AI 시스템 (팀프로젝트) (풀스택)
     - 2023.01.01 ~ 2024.01.01
-    - 특허출원
 - 한국해양대학교 1차 캡스톤디자인 - 자동 제동과 동력보조 수단을 구비한 스마트 유모차 개발 (팀프로젝트) (Android 개발 및 통신)
     - 2022.07.01 ~ 2022.12.30
-    - 특허출원
 
 ## Problem Solving
 
